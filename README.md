@@ -1,2 +1,2 @@
-# site-boostrap
-site de exemplo de um projeto em boostrap
+# site-bootstrap
+site de criação de um arquivo boostrap
